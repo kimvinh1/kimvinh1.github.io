@@ -1,11 +1,11 @@
 {
-    "name": "eap",
-    "short_name": "eap",
+    "name": "mita_eap",
+    "short_name": "mita_eap",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "APP EAP",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
